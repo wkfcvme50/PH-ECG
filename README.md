@@ -8,11 +8,11 @@ This repository currently provides data sources, access requirements, and prepar
 
 | Dataset | Study use | Source |
 | --- | --- | --- |
-| EchoNext | Development, validation, and independent testing using ECG waveforms and echocardiography-derived labels | [PhysioNet EchoNext](https://physionet.org/content/echonext/) |
+| EchoNext, version 1.1.1 | Development, validation, and independent testing using ECG waveforms and echocardiography-derived labels | [PhysioNet EchoNext](https://physionet.org/content/echonext/1.1.1/) |
 | MIMIC-IV-ECG, version 1.0 | External-validation ECG waveforms | [PhysioNet MIMIC-IV-ECG 1.0](https://physionet.org/content/mimic-iv-ecg/1.0/) |
 | MIMIC-IV-Echo, version 1.0.1 | External-validation structured echocardiographic measurements | [PhysioNet MIMIC-IV-Echo 1.0.1](https://physionet.org/content/mimic-iv-echo/1.0.1/) |
 
-EchoNext is a separate Columbia/Allen dataset, not a MIMIC-IV module. The exact EchoNext release used in the study is being checked against the original download record; it is not inferred from the download date.
+EchoNext is a separate Columbia/Allen dataset, not a MIMIC-IV module. The study uses EchoNext version 1.1.1.
 
 EchoNext requires registration and acceptance of its applicable data-use agreement. MIMIC datasets require PhysioNet credentialing, the specified research training, and acceptance of the relevant dataset-specific agreements. Follow the requirements on each source page.
 
@@ -20,7 +20,7 @@ EchoNext requires registration and acceptance of its applicable data-use agreeme
 
 Dataset use is governed by the original PhysioNet licenses and agreements:
 
-- [EchoNext access, license, and agreement](https://physionet.org/content/echonext/)
+- [EchoNext access, license, and agreement](https://physionet.org/content/echonext/1.1.1/)
 - [MIMIC-IV-ECG 1.0 access, license, and agreement](https://physionet.org/content/mimic-iv-ecg/1.0/)
 - [MIMIC-IV-Echo 1.0.1 access, license, and agreement](https://physionet.org/content/mimic-iv-echo/1.0.1/)
 
@@ -59,5 +59,5 @@ Use the version-specific citation and required original publications shown on ea
 
 - MIMIC-IV-ECG 1.0: DOI [10.13026/4nqg-sb35](https://doi.org/10.13026/4nqg-sb35).
 - MIMIC-IV-Echo 1.0.1: DOI [10.13026/307c-mr50](https://doi.org/10.13026/307c-mr50).
-- EchoNext: confirm the downloaded release before choosing its version-specific citation.
+- EchoNext 1.1.1: P. Elias and J. Finer, PhysioNet, 2026. DOI [10.13026/7cfw-d091](https://doi.org/10.13026/7cfw-d091).
 
