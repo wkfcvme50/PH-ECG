@@ -2,8 +2,6 @@
 
 **Partially Separable Dual-Branch ECG Representations of Pulmonary Pressure Load and RV Injury: A Causal-Inspired Pressure–RV Deviation Analysis**
 
-This repository currently provides data sources, access requirements, and preparation notes. Training and analysis code will be added in a subsequent update.
-
 ## Data sources and access
 
 | Dataset | Study use | Source |
